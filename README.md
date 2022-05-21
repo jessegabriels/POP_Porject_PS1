@@ -1,2 +1,2 @@
 # POP_Project_PS1
-Code voor het POP-Project
+Sommige mappen kan ik niet op github zetten omdat ze te groot zijn (meer als 100 bestanden).
