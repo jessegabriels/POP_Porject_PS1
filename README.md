@@ -1,2 +1,2 @@
-# POP_Porject_PS1
+# POP_Project_PS1
 Code voor het POP-Project
